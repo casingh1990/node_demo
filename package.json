@@ -1,0 +1,11 @@
+{
+  "name": "node.casingh.me",
+  "version": "1.0.0",
+  "description": "node demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
